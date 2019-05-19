@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post, about me :-)
-image: /img/mnb.png
+image: /img/mnb2.png
 bigimg: /img/path.jpg
 ---
 
