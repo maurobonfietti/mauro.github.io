@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post, about me :-)
-image: /img/hello_world.jpeg
+image: /img/mnb.png
 ---
 
 Hello! My name is Mauro Bonfietti.

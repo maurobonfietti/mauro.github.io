@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 
+title:  Home
 
 # Short description of your site
-description: Mauro Bonfietti new website!
+description: I'm Mauro Bonfietti and this is my new website!
 
 # --- Navigation bar options --- #
 
