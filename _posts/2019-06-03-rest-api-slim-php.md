@@ -16,165 +16,38 @@ This simple RESTful API made in Slim version 3, allows CRUD operations to manage
 [![Code Quality](https://scrutinizer-ci.com/g/maurobonfietti/api-rest-slimphp/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/maurobonfietti/api-rest-slimphp/?branch=master)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=maurobonfietti_rest-api-slim-php&metric=alert_status)](https://sonarcloud.io/dashboard?id=maurobonfietti_rest-api-slim-php)
 
-You can also read this [README IN SPANISH](README_SPANISH.md).
 
-## INSTALLATION:
+You can find more info about this project in my repository: [rest-api-slim-php](https://github.com/maurobonfietti/rest-api-slim-php).
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/7a6c923fbfdd46368bd6c018c58c1e6c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+I implemented this API in [this project](https://github.com/maurobonfietti/rest-api-slim-php-web-app). It's a todo list web app developed in Angular.
 
-### 1- Clone project and install dependencies:
+
+## QUICK INSTALL:
+
+### Pre Requisite:
+
+- Git.
+- Composer.
+- PHP.
+- MySQL/MariaDB.
+
+### Run commands:
+
+In your terminal execute this commands:
 
 ```bash
-$ git clone https://github.com/maurobonfietti/rest-api-slim-php.git
-$ cd rest-api-slim-php
+$ git clone https://github.com/maurobonfietti/rest-api-slim-php.git && cd rest-api-slim-php
 $ cp .env.example .env
 $ composer install
-```
-
-
-### 2- Create a new MySQL database. For example: "rest_api_slim_php".
-
-From the command line run:
-
-```bash
-$ mysql -e 'CREATE DATABASE rest_api_slim_php;'
-```
-
-
-### 3- Create the structure and load test data into the database.
-
-The database can be updated manually using the following file: [database.sql](database/database.sql).
-
-It can also be run from the command line:
-
-```bash
-$ mysql rest_api_slim_php < database/database.sql
-```
-
-
-### 4- Configure the connection data with MySQL.
-
-Edit and complete configuration file: `.env`. For example:
-
-```
-DB_HOSTNAME = '127.0.0.1'
-DB_DATABASE = 'rest_api_slim_php'
-DB_USERNAME = 'root'
-DB_PASSWORD = ''
-```
-
-
-### 5- Configure optional environment variables.
-
-For example:
-
-```
-DISPLAY_ERROR_DETAILS=true
-APP_DOMAIN='https://www.yourdomain.com'
-USE_REDIS_CACHE=false
-REDIS_URL=''
-SECRET_KEY='YourSuperSecret-KeY'
-```
-
-
-## LOCAL SERVER:
-
-You can start the PHP internal web server by running:
-
-```bash
+$ composer database
 $ composer start
 ```
 
+### Installation:
 
-### NOTE:
-
-If everything went well :sunglasses:, you can access the project locally by entering:
-[Help](http://localhost:8080), 
-[Status](http://localhost:8080/status) and
-[Notes](http://localhost:8080/api/v1/notes).
-
-The `composer start` command would be the equivalent to execute:
-
-```bash
-$ php -S 0.0.0.0:8080 -t public public/index.php
-```
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/7a6c923fbfdd46368bd6c018c58c1e6c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-## DEPENDENCIES:
-
-### LIST OF REQUIRE DEPENDENCIES:
-
-- [slim/slim](https://github.com/slimphp/Slim): Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
-- [respect/validation](https://github.com/Respect/Validation): The most awesome validation engine ever created for PHP.
-- [palanik/corsslim](https://github.com/palanik/CorsSlim): Cross-origin resource sharing (CORS) middleware for PHP Slim.
-- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv): Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-- [predis/predis](https://github.com/phpredis/phpredis): A PHP extension for Redis.
-- [firebase/php-jwt](https://github.com/firebase/php-jwt): A simple library to encode and decode JSON Web Tokens (JWT) in PHP.
-
-### LIST OF DEVELOPMENT DEPENDENCIES:
-
-- [phpunit/phpunit](https://github.com/sebastianbergmann/phpunit): The PHP Unit Testing framework.
-- [phpstan/phpstan](https://github.com/phpstan/phpstan): PHPStan - PHP Static Analysis Tool.
-
-
-## TESTS:
-
-Access the root of the project and run all tests PHPUnit with `composer test`.
-
-```bash
-PHPUnit 8.1.5 by Sebastian Bergmann and contributors.
-
-.......................................................           55 / 55 (100%)
-
-Time: 171 ms, Memory: 12.00 MB
-
-OK (55 tests, 290 assertions)
-```
-
-
-## DOCUMENTATION:
-
-### ENDPOINTS:
-
-[You can see the API documentation with the full list of endpoints](extras/docs/endpoints.md).
-
-- Help: `GET /`
-
-- Status: `GET /status`
-
-- Login User: `POST /login`
-
-- Create User: `POST /api/v1/users`
-
-- Update User: `PUT /api/v1/users/{id}`
-
-- Delete User: `DELETE /api/v1/users/{id}`
-
-- Get All Tasks: `GET /api/v1/tasks`
-
-- Get One Task: `GET /api/v1/tasks/{id}`
-
-- Search Tasks: `GET /api/v1/tasks/search/{string}`
-
-- Create Task: `POST /api/v1/tasks`
-
-- Update Task: `PUT /api/v1/tasks/{id}`
-
-- Delete Task: `DELETE /api/v1/tasks/{id}`
-
-
-### IMPORT WITH POSTMAN:
-
-All the information of the API, prepared to download and use as postman collection: [Import Collection](https://www.getpostman.com/collections/b8493a923ab81ef53ebb).
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/b8493a923ab81ef53ebb)
-
-
-### HELP AND DOCS:
-
-For more information on how to use the REST API, see the following documentation available on [Postman Documenter](https://documenter.getpostman.com/view/1915278/RztfwByr).
-
-
-## GIVE IT A TRY:
+## Give it a try:
 
 Check it out to this [live demo](http://bit.ly/2DdwKkd) hosted on Heroku.
