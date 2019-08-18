@@ -17,11 +17,6 @@ This simple RESTful API made in Slim version 3, allows CRUD operations to manage
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=maurobonfietti_rest-api-slim-php&metric=alert_status)](https://sonarcloud.io/dashboard?id=maurobonfietti_rest-api-slim-php)
 
 
-You can find more info about this project in my repository: [rest-api-slim-php](https://github.com/maurobonfietti/rest-api-slim-php).
-
-I implemented this API in [this project](https://github.com/maurobonfietti/rest-api-slim-php-web-app). It's a todo list web app developed in Angular.
-
-
 ## QUICK INSTALL:
 
 ### Pre Requisite:
@@ -46,6 +41,13 @@ $ composer start
 ### Installation:
 
 <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/7a6c923fbfdd46368bd6c018c58c1e6c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+## More Info:
+
+You can find more info about this project in my repository: [rest-api-slim-php](https://github.com/maurobonfietti/rest-api-slim-php).
+
+I implemented this API in [this project](https://github.com/maurobonfietti/rest-api-slim-php-web-app). It's a todo list web app developed in Angular.
 
 
 ## Give it a try:
