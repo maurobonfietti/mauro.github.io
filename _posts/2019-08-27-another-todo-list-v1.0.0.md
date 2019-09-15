@@ -1,11 +1,12 @@
-# Another ToDo List Web App:
 
-This is another ToDo List app, for do amazing stuff ;-)
+This is another ToDo List Web App, for do amazing stuff ;-)
+
 
 ## Application Stack:
 
 * Frontend: Angular 4 + Angular Material Design. [View repository](https://github.com/maurobonfietti/todo-list-front).
 * Backend: Symfony PHP Framework + MySQL DB. [View repository](https://github.com/maurobonfietti/todo-list-back).
+
 
 ## Check it out:
 
@@ -13,4 +14,6 @@ This is another ToDo List app, for do amazing stuff ;-)
 
 Release version: 1.0.0 (27/08/2019).
 
+
 ### Enjoy :-)
+
