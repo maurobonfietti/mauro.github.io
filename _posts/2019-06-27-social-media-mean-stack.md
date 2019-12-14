@@ -11,3 +11,5 @@ This is an example of a simple social media, using MEAN Stack: MongoDB, Express.
 
 * Frontend: Angular 6. [Go to repository](https://github.com/maurobonfietti/social).
 * Backend: Node.js, Express.js and MongoDB. [Go to repository](https://github.com/maurobonfietti/social-back).
+
+**Enjoy.**
