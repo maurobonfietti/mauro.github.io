@@ -5,14 +5,14 @@ title: First post, about me :-)
 
 Hello! My name is Mauro Bonfietti.
 
-I'm Software Engineer with over +10 years of work experience as backend software developer.
+I'm Software Engineer with over +10 years of work experience as backend developer.
 
 I like reading and learning new technologies.
 
-Currently, I work from home and live in Rosario, Argentina. 
+Currently, I live in Rosario (Argentina) and work from home.
 
-In my spare time, I like to play football with my friends, watch tv series and read books.
+In my spare time, I like to play soccer with my friends and watch tv series.
 
 I also love to spend quality time with my family ;-)
 
-You can find me on [linkedin](https://www.linkedin.com/in/mauro-bonfietti/) and also on [github](https://github.com/maurobonfietti/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/mauro-bonfietti/) and also on [GitHub](https://github.com/maurobonfietti/).
