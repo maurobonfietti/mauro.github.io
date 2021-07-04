@@ -5,7 +5,7 @@ title: First post, about me :-)
 
 Hello! My name is Mauro Bonfietti.
 
-I'm Software Engineer with over +10 years of work experience as backend developer.
+I'm a Software Engineer with over +10 years of work experience as a Backend Developer.
 
 I like reading and learning new technologies.
 
