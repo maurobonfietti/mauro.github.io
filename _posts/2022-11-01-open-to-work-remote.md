@@ -3,8 +3,10 @@ layout: post
 title: Building My Job Board: Open To Work Remote
 ---
 
-Hey, I'm building my new project: Open To Work Remote.
+# Open To Work Remote
 
-😎🥳Check it out: https://opentoworkremote.com
+Hey, I'm building my new project: a Job Board.
 
-Stay tuned. 👋😃
+Check it out: [OpenToWorkRemote](https://opentoworkremote.com)
+
+Stay tuned!
