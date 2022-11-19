@@ -15,4 +15,6 @@ In my spare time, I like to play soccer with my friends and watch tv series.
 
 I also love to spend quality time with my family ;-)
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/mauro-bonfietti/) and also on [GitHub](https://github.com/maurobonfietti/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/mauro-bonfietti/), [GitHub](https://github.com/maurobonfietti/), and now also on [Twitter](https://twitter.com/MauroBonfietti)
+
+More about me on: [linktr](https://linktr.ee/maurobonfietti)
