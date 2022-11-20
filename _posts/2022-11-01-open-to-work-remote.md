@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building My Job Board: Open To Work Remote
+title: Building My Job Board, Open To Work Remote
 ---
 
 # Open To Work Remote
