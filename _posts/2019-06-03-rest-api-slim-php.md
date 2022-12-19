@@ -49,7 +49,3 @@ You can find more info about this project in my repository: [rest-api-slim-php](
 
 I implemented this API in [this project](https://github.com/maurobonfietti/rest-api-slim-php-web-app). It's a todo list web app developed in Angular.
 
-
-## Give it a try:
-
-Check it out to this [live demo](http://bit.ly/2DdwKkd) hosted on Heroku.
