@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm building a series of tools to support Remote Work.
+title: I'm building a series of tools to support Remote Work
 ---
 
 # # OpenToWorkRemote.com
@@ -16,7 +16,7 @@ A job board to help IT talents living in LATAM to find good remote jobs with bet
 
 ### Link Job Board: [Open To Work Remote](https://opentoworkremote.com)
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ym0chfm3d8muiuzlcr4x.png)
+![Job Board Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ym0chfm3d8muiuzlcr4x.png)
 
 
 ## 2- Job API.
@@ -27,7 +27,7 @@ An API with remote jobs. The data is paginated and allows you to filter jobs by 
 
 ### View on: [RapidAPI](https://rapidapi.com/maurobonfietti/api/open-to-work-remote-api/).
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/giniuf17gfe3ld5xf887.png)
+![Job API Landing Page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/giniuf17gfe3ld5xf887.png)
 
 
 ## 3- Telegram Jobs Group. 🛠️🤖
@@ -36,7 +36,7 @@ A telegram group where a bot posts remote jobs daily.
 
 ### Join us on: [Telegram](https://t.me/opentoworkremote).
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/btpkn3j056vnw8w13orq.png)
+![Telegram Group](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/btpkn3j056vnw8w13orq.png)
 
 
 ## 4- Remote Jobs List.
@@ -44,6 +44,8 @@ A telegram group where a bot posts remote jobs daily.
 A README collection of remote job opportunities from around the world.
 
 ### Check it out: [GitHub Repo](https://github.com/maurobonfietti/remote-jobs).
+
+![Remote Jobs List Example](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ggcioo4r982ey7r8fisv.png)
 
 
 -----
