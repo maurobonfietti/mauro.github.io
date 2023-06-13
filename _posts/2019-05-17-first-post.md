@@ -17,4 +17,4 @@ I also love to spend quality time with my family ;-)
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/mauro-bonfietti/), [GitHub](https://github.com/maurobonfietti/), and now also on [Twitter](https://twitter.com/MauroBonfietti).
 
-More info about me on: [Linktree](https://linktr.ee/maurobonfietti).
+All of my links: [Linktree](https://linktr.ee/maurobonfietti).
