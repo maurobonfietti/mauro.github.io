@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm building a series of tools to support Remote Work
+title: I'm building a series of tools to support remote work and help people find jobs
 ---
 
 # # OpenToWorkRemote.com
@@ -17,12 +17,11 @@ Some of the tools that I'm working on:
 
 Introducing the first tool in my series: a website designed to assist IT talents living in LATAM in finding exceptional remote job opportunities with better salaries.
 
-You can expect from my Job Board:
+ ✅ You can expect from my Job Board:
 
 - Extensive job listings.
 - Search and filters.
-- Salaries info.
-*(It's not easy to find info about salaries. I'll be working more on this.)*
+- Salaries info. *(It's not easy to find info about salaries. I'll be working more on this.)*
 
 I am incredibly excited about this initiative. I aim to facilitate your job search and help you to secure rewarding remote opportunities that match your skills and aspirations.
 
@@ -38,7 +37,7 @@ Stay tuned for updates on the launch of my Job Board. In the beginning, for IT p
 
 The second tool in my series: is a Job API. This powerful API provides access to a vast database of job opportunities, making the job search process even more efficient and tailored to your preferences. The data is paginated and allows you to filter jobs by title, location, technology, company, and salary.
 
-What you need to know about this API:
+ ✅ About this API:
 
 - Paginated results.
 - Jobs updates daily.
@@ -61,15 +60,13 @@ More releases are coming soon for this API and his documentation details.
 
 The third one: I share job searches in a Telegram group. This leverages the power of Telegram with a bot that brings you a selection of job opportunities on a daily basis.
 
-About the Telegram group:
+ ✅ About the Telegram group:
 
 - Multiple job posts.
 - Community growing.
-- Easy application process.
+- Easy application process *(feature pending to be developed).*
 - Topics and job categories.
 - Daily updates.
-
-*(Easy Apply it's a feature pending to be developed.)*
 
 Join the group today to receive daily remote job opportunities directly in your Telegram account. It's a convenient way to stay informed, explore new career paths, and take it to the next level! I can't wait to have you on board and help you discover exciting remote job prospects tailored to your interests and skills.
 
@@ -83,7 +80,7 @@ Join the group today to receive daily remote job opportunities directly in your 
 
 The remote jobs list is my series’s fourth and last mini-tool. This comprehensive collection of remote job opportunities worldwide is organized in a README file in Markdown format, trying to make it easy for job seekers to explore all positions in one place.
 
-Remote Jobs List:
+ ✅ Remote Jobs List:
 
 - Onsite positions.
 - 100% remote positions.
