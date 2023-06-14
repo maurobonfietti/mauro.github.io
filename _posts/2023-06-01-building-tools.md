@@ -13,15 +13,15 @@ With the current global situation, many of us have transitioned from working rem
 
 Some of the tools that I'm working on:
 
-## 1- Job Aggregator: 👨‍💻 👩‍💻
+## 1- Job Aggregator: 😃 👋️
 
 Introducing the first tool in my series: a website designed to assist IT talents living in LATAM in finding exceptional remote job opportunities with better salaries.
 
 You can expect from my Job Board:
 
-- Extensive Job Listings.
+- Extensive job listings.
 - Search and filters.
-- Salaries Info.
+- Salaries info.
 *(It's not easy to find info about salaries. I'll be working more on this.)*
 
 I am incredibly excited about this initiative. I aim to facilitate your job search and help you to secure rewarding remote opportunities that match your skills and aspirations.
@@ -40,10 +40,10 @@ The second tool in my series: is a Job API. This powerful API provides access to
 
 What you need to know about this API:
 
-- Paginated Results.
-- Jobs Updates Daily.
-- Remote Job Listings.
-- Advanced Filtering Options.
+- Paginated results.
+- Jobs updates daily.
+- Remote job listings.
+- Advanced filtering options.
 
 The Job API could be a game-changer for developers, job seekers, recruiters, and companies. The API allows access to a wealth of hidden job listings in a targeted and efficient manner.
 
@@ -63,11 +63,11 @@ The third one: I share job searches in a Telegram group. This leverages the powe
 
 About the Telegram group:
 
-- Multiple Job Posts.
-- Community Growing.
-- Easy Application Process.
+- Multiple job posts.
+- Community growing.
+- Easy application process.
 - Topics and job categories.
-- Daily Updates.
+- Daily updates.
 
 *(Easy Apply it's a feature pending to be developed.)*
 
@@ -88,7 +88,7 @@ Remote Jobs List:
 - Onsite positions.
 - 100% remote positions.
 - Varied industries positions.
-- Readme in markDown format.
+- Readme in Markdown format.
 - Public repository on GitHub.
 
 Whether you're seeking a remote-first company or a fully remote position, this list covers you.
