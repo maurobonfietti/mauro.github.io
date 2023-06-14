@@ -5,7 +5,7 @@ title: I'm building a series of tools to support remote work and help people fin
 
 # # OpenToWorkRemote.com
 
-Hey everyone 😃  👋️
+Hey, there! 😃  👋️
 
 I wanted to share some exciting news with you all. I am building a series of mini tools designed to support remote work and help people find jobs.
 
@@ -13,7 +13,7 @@ With the current global situation, many of us have transitioned from working rem
 
 Some of the tools that I'm working on:
 
-## 1- Job Aggregator: 😃 👋️
+## 1- Job Aggregator: 👨‍💻️ 💼
 
 Introducing the first tool in my series: a website designed to assist IT talents living in LATAM in finding exceptional remote job opportunities with better salaries.
 
