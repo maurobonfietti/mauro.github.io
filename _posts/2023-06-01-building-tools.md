@@ -13,7 +13,7 @@ With the current global situation, many of us have transitioned from working rem
 
 Some of the tools that I'm working on:
 
-## 1- Job Aggregator: 👨‍💻️
+## 1- Job Aggregator: 👨‍💻 👩‍💻
 
 Introducing the first tool in my series: a website designed to assist IT talents living in LATAM in finding exceptional remote job opportunities with better salaries.
 
@@ -34,7 +34,7 @@ Stay tuned for updates on the launch of my Job Board. In the beginning, for IT p
 
 -----
 
-## 2- Job API: 📦️
+## 2- Job API: 🖥️ 🌐
 
 The second tool in my series: is a Job API. This powerful API provides access to a vast database of job opportunities, making the job search process even more efficient and tailored to your preferences. The data is paginated and allows you to filter jobs by title, location, technology, company, and salary.
 
@@ -57,7 +57,7 @@ More releases are coming soon for this API and his documentation details.
 
 -----
 
-## 3- Telegram group: 🤖
+## 3- Telegram group: 🤖 👥
 
 The third one: I share job searches in a Telegram group. This leverages the power of Telegram with a bot that brings you a selection of job opportunities on a daily basis.
 
@@ -79,7 +79,7 @@ Join the group today to receive daily remote job opportunities directly in your 
 
 -----
 
-## 4- Remote Jobs List: 🌎
+## 4- Remote Jobs List: 🌎 📃
 
 The remote jobs list is my series’s fourth and last mini-tool. This comprehensive collection of remote job opportunities worldwide is organized in a README file in Markdown format, trying to make it easy for job seekers to explore all positions in one place.
 
@@ -103,8 +103,10 @@ I want to share more updates and more tools. So, stay tuned!
 
 Please reach out if you want to join or have any ideas or suggestions.
 
-Let's make remote work more productive and enjoyable.
+Let's make remote work more successful and enjoyable. 💪 🚀
 
-That's all until today. Thank you for reading.-
+That's all until today. Thank you for reading.
+
+All the best.
 
 😃 Mauro 👋️
