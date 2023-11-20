@@ -3,7 +3,7 @@ layout: post
 title: I'm building a series of tools to support remote work and help people find jobs
 ---
 
-# # OpenToWorkRemote.com
+# # www.OpenToWorkRemote.com
 
 Hey, there! 😃  👋️
 
